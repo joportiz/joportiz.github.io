@@ -5,7 +5,6 @@ subtitle: PhD Candidate in Water Systems
 ---
 
 ![](/img/Pablo 5.PNG)
-![]('/img/Pablo 5.PNG')
 
 My name is Pablo and I'm a cool scientist.
 
