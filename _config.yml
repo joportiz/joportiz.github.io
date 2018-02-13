@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Rich Pauloo
+title: Jose Pablo Ortiz Partida
 
 # Short description of your site
-description: Rich Pauloo's personal page.
+description: Pablo's personal page.
 
 # --- Navigation bar options --- #
 
@@ -25,11 +25,11 @@ description: Rich Pauloo's personal page.
 navbar-links:
   About: "aboutme"
   Projects: "projects"
-  Shiny Apps:
-    - Groundwater Quality Mapper: "https://richpauloo.shinyapps.io/tds_leaflet/"
-    - Word Cloud Generator: "https://richpauloo.shinyapps.io/word_cloud_app/"
-    - Conference Data Explorer: "https://richpauloo.shinyapps.io/abstr/"
-  CV: "richpauloo.github.io/rap-rmarkdown-cv.pdf"
+#  Shiny Apps:
+#    - Groundwater Quality Mapper: "https://richpauloo.shinyapps.io/tds_leaflet/"
+#    - Word Cloud Generator: "https://richpauloo.shinyapps.io/word_cloud_app/"
+#    - Conference Data Explorer: "https://richpauloo.shinyapps.io/abstr/"
+#  CV: "richpauloo.github.io/rap-rmarkdown-cv.pdf"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -57,16 +57,16 @@ avatar: "/img/profile_ice_100.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rich Pauloo
-  email: "richpauloo@gmail.com"
+  name: Jose Pablo Ortiz Partida
+  email: "josepablo.ortizpartida@gmail.com"
   facebook: yourname  # eg. daattali
   github: richpauloo    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: richpauloo  # eg. daattali
+  linkedin: jose-pablo-ortiz-partida  # eg. daattali
   xing: yourname      # eg. daattali
-  stackoverflow: "8367943/rich-pauloo"  # eg. "3943160/daattali"
+  stackoverflow: # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
@@ -87,7 +87,7 @@ footer-links-active:
   reddit: false
   linkedin: true
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
@@ -99,18 +99,18 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "richpauloo.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pablowater.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "richpauloo"
+disqus: "pablowater"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
